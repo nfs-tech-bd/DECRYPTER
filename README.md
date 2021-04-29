@@ -24,7 +24,7 @@ Decrypt All Your Python Scripts Easily.Python Decrypt
 
 * `cd DECRYPTER`
 
-* `python2 DECRYPTER.py`
+* `python2 decrypter.py`
 
 
 ## Single Command :
